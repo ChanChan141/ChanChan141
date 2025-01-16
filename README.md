@@ -1,5 +1,5 @@
 # Hello. I'm Kim EunChan
-**적당히 행복하게 살자!**
+**돈 많이 벌고, 행복하게 살자!**
 
 ![이미지](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpMiHCFdLuRT9CI3R-JY3k8KWVBV3ba4Be4g&s)
 
