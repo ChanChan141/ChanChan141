@@ -3,14 +3,14 @@
 
 ![이미지](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpMiHCFdLuRT9CI3R-JY3k8KWVBV3ba4Be4g&s)
 
-### [[MY TIL] I want to be better than yesterday](https://github.com/ChanChan141/TIL)
+### [[MY TIL] I want to be better than I was yesterday.](https://github.com/ChanChan141/TIL)
 ## My profile
 - 🏃‍♂️ 김은찬
 - 🎂 19xx.12.xx
 - ⚙️ 전공: 기계공학과
 - 😊 목표: 플랜트 산업 플랫폼 엔지니어, 플랜트 기계 설계직
 - ✒️ 좌우명: 행복하게 살자!
-
+- 📩 kuhung142@naver.com
 ---
 
 ## in 2025
